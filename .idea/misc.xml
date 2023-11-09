@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Black">
+    <option name="cmdArguments" value="-S --line-length 79 --experimental-string-processing" />
+    <option name="enabledOnSave" value="true" />
+    <option name="sdkUUID" value="a357e473-56f1-4b29-9785-1a805ffa679a" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.9 (kittygram2plus)" project-jdk-type="Python SDK" />
+</project>
