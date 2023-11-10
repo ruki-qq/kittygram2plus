@@ -150,7 +150,7 @@ REST_FRAMEWORK = {
     'DEFAULT_THROTTLE_RATES': {
         'user': '10000/day',
         'anon': '1000/day',
-        'low_request': '1/minute',
+        'low_request': '1/second',
     },
     'DEFAULT_PAGINATION_CLASS': (
         'rest_framework.pagination.PageNumberPagination'
